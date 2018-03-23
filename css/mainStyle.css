@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding: 0%;
+}
+.logo{
+    padding: .3em 2em 0em 0em;
+    text-align: left;
+    font-weight: lighter;
+    background-color: cadetblue;
+    opacity: .7;
+    font-size: 2em;
+    margin:0;
+    top: 0;
+    left: 0;
+    float: left;
+}
+.box{
+    width: 100%;background-color:black; 
+   
+}
+.logo .relleno{
+    width: 30%;
+    background-color: black;
+}
+li {
+    list-style: none;
+    margin-left: .5%;
+}
+.navigator {
+    left: 0;
+    top: 20em;
+    background-color: seagreen;
+    padding: 0 3.65em 100% .2em;
+    height: 100%;
+    margin-right: 70%;
+    float: left;
+    margin-bottom: 0px;
+}
